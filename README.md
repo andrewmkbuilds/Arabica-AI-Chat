@@ -20,15 +20,30 @@ A bilingual AI chatbot that seamlessly switches between English and Arabic, usin
 
 ---
 
-## 💡 How It Works  
-1. User enters a message in English or Arabic  
-2. System detects and translates input if needed  
-3. AI processes the message and generates a response  
-4. Output is translated back to the user’s language  
+## ⚙️ Setup  
+
+1. Open the project files  
+2. Locate where the API key is defined in the code  
+3. Replace `YOUR_API_KEY` with your own Google Gemini API key  
+4. Run the application:
+
+```bash
+python "Arabic chatbot.py"
+```
 
 ---
 
-## 🔮 Future Improvements  
+## 💡 How It Works
+
+1. User enters a message in English or Arabic  
+2. System detects and translates input if needed  
+3. AI processes the message and generates a response  
+4. Output is translated back to the user's language  
+
+---
+
+## 🔮 Future Improvements
+
 - 🗣 Voice input & output  
 - 📱 Mobile app version  
 - 🧠 Conversation memory  
@@ -37,5 +52,6 @@ A bilingual AI chatbot that seamlessly switches between English and Arabic, usin
 
 ---
 
-## 👨‍💻 Author  
-Andrew Mathews  
+## 👨‍💻 Author
+
+Andrew Mathews
