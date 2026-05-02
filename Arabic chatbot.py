@@ -4,7 +4,7 @@ import re
 import tkinter as tk
 from tkinter import scrolledtext
 
-API_KEY = "AIzaSyBTzZn-w8iFm72BrK9vGm7pH1Ix_DjGwIM"
+API_KEY = "YOUR_API_KEY"
 ai.configure(api_key=API_KEY)
 
 model = ai.GenerativeModel("gemini-pro")
